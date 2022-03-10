@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika230&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika230" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravsk&label=Profile%20views&color=0e75b6&style=flat" alt="souravsk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 
