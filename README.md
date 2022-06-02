@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravsk&label=Profile%20views&color=0e75b6&style=flat" alt="souravsk" /> </p>
 
-<h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
+![name](image/name.png)
 
-### I'm an Open Source Enthusiast and currently learning DevOps.
+
 
 ## About Me :wave:
 <a href="https://twitter.com/sourav_sovu_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sourav-kumar-237958141/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --!>
+
