@@ -12,7 +12,7 @@
 
 - 🌱 I’m looking to collaborate on projects based on DevOps. I am also looking forward to contributing on Open Source projects.
 
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning Terraform
 
 - 🌱 I’m looking for help in DevOps and Open Source.
 
