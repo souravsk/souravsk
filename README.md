@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravsk&label=Profile%20views&color=0e75b6&style=flat" alt="souravsk" /> </p>
   <p align="left"> <a href="https://twitter.com/sourav_sovu_" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_sovu_?logo=twitter&style=for-the-badge" alt="sourav_sovu_" /></a> </p>
 
-![name](image/name.png)
+![name](https://www.canva.com/design/DAFCdzNCEb8/FFQwCxcSPUTU9DVOtmgCYQ/view?utm_content=DAFCdzNCEb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
