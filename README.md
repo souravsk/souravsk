@@ -3,7 +3,7 @@
 ## About Me :wave:
 <a href="https://twitter.com/sourav_sovu_" target="_blank"><img src="image/avtar.png" align="right"></a>
 
-- 🌱 Interested **DevOps and SRE **.
+- 🌱 Interested **DevOps, SRE, and Cloud-Native** .
 
 - 🌱 I’m looking to collaborate on projects based on DevOps. I am also looking forward to contributing on Open Source projects.
 
