@@ -7,9 +7,9 @@
 
 - 🌱 I’m looking to collaborate on projects based on DevOps. I am also looking forward to contributing on Open Source projects.
 
-- 🌱 I’m currently learning GO and Python
+- 🌱 I’m currently learning GO. Python, and Frontend
 
-- 🌱 I’m looking for help in DevOps and Open Source.
+- 🌱 I’m looking for help in DevOps, Open Source and Remote Job.
 
 - 📫 How to reach me **souravk326@gmail.com**
 
