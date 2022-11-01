@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **souravk326@gmail.com**
 
-#### :books: Recent Blog Posts
+## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
