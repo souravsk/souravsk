@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **souravk326@gmail.com**
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sourav_sovu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav_sovu_" height="30" width="30" /></a>
