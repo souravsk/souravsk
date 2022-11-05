@@ -15,11 +15,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Here are some advanced topics related to Kubernetes that you should know about](https://souravk.hashnode.dev/here-are-some-advanced-topics-related-to-kubernetes-that-you-should-know-about)
- - 💯 [Kubernetes Ingress: How to Secure Your Cluster Traffic](https://souravk.hashnode.dev/kubernetes-ingress-how-to-secure-your-cluster-traffic)
+ - 🚀 [How do I run a Web application in a Docker container?](https://souravk.hashnode.dev/how-do-i-run-a-web-application-in-a-docker-container)
+ - 💯 [Here are some advanced topics related to Kubernetes that you should know about](https://souravk.hashnode.dev/here-are-some-advanced-topics-related-to-kubernetes-that-you-should-know-about)
+ - 🚀 [Kubernetes Ingress: How to Secure Your Cluster Traffic](https://souravk.hashnode.dev/kubernetes-ingress-how-to-secure-your-cluster-traffic)
  - 🚀 [KUBERNETES VOLUME: Do You Really Need It?](https://souravk.hashnode.dev/kubernetes-volume-do-you-really-need-it)
- - 🚀 [How To Turn KUBERNETES SERVICES Into Success](https://souravk.hashnode.dev/how-to-turn-kubernetes-services-into-success)
- - 🌮 [Accessing Minikube with Kubectl](https://souravk.hashnode.dev/accessing-minikube-with-kubectl)<!-- BLOGPOSTS:END -->
+ - 🌮 [How To Turn KUBERNETES SERVICES Into Success](https://souravk.hashnode.dev/how-to-turn-kubernetes-services-into-success)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
