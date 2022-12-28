@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **souravk326@gmail.com**
 
+##  Certification Badge
+### Microsoft Certified: Azure Fundamentals
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d60b63e6-571c-48ef-996e-d80f93d4cf6d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🚀 [Deploying a containerized web application on Kubernetes Cluster](https://souravk.hashnode.dev/deploying-a-containerized-web-application-on-kubernetes-cluster)
