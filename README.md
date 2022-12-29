@@ -15,7 +15,10 @@
 
 ##  Certification Badge
 ### Microsoft Certified: Azure Fundamentals
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d60b63e6-571c-48ef-996e-d80f93d4cf6d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ 
+<a href="https://www.credly.com/badges/d60b63e6-571c-48ef-996e-d80f93d4cf6d/public_url" target="blank">
+ <img align="center" src="image/AZ-900.png" alt="AZ-900" height="150" width="150"/></a>
+ <h3>AZ-900</h3>
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
