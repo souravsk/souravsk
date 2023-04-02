@@ -22,11 +22,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Safeguarding Your Digital World: A Comprehensive Approach to Cybersecurity](https://souravk.hashnode.dev/safeguarding-your-digital-world-a-comprehensive-approach-to-cybersecurity)
- - 💯 [DevSecOps](https://souravk.hashnode.dev/devsecops)
+ - 🚀 [What is WebAssembly?](https://souravk.hashnode.dev/what-is-webassembly)
+ - 💯 [Safeguarding Your Digital World: A Comprehensive Approach to Cybersecurity](https://souravk.hashnode.dev/safeguarding-your-digital-world-a-comprehensive-approach-to-cybersecurity)
+ - 🚀 [DevSecOps](https://souravk.hashnode.dev/devsecops)
  - 🚀 [How to use Minikube on GitHub Codespaces](https://souravk.hashnode.dev/how-to-use-minikube-on-github-codespaces)
- - 🚀 [Deploying a containerized web application on Kubernetes Cluster](https://souravk.hashnode.dev/deploying-a-containerized-web-application-on-kubernetes-cluster)
- - 🌮 [How do I run a Web application in a Docker container?](https://souravk.hashnode.dev/how-do-i-run-a-web-application-in-a-docker-container)<!-- BLOGPOSTS:END -->
+ - 🌮 [Deploying a containerized web application on Kubernetes Cluster](https://souravk.hashnode.dev/deploying-a-containerized-web-application-on-kubernetes-cluster)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
