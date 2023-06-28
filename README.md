@@ -22,11 +22,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [My First Meetup](https://souravk.hashnode.dev/my-first-meetup)
- - 💯 [What is WebAssembly?](https://souravk.hashnode.dev/what-is-webassembly)
+ - 🚀 [Introduction to WebAssebley aka WASM](https://souravk.hashnode.dev/intro-wasm)
+ - 💯 [My First Meetup](https://souravk.hashnode.dev/my-first-meetup)
+ - 🚀 [What is WebAssembly?](https://souravk.hashnode.dev/what-is-webassembly)
  - 🚀 [Safeguarding Your Digital World: A Comprehensive Approach to Cybersecurity](https://souravk.hashnode.dev/safeguarding-your-digital-world-a-comprehensive-approach-to-cybersecurity)
- - 🚀 [DevSecOps](https://souravk.hashnode.dev/devsecops)
- - 🌮 [How to use Minikube on GitHub Codespaces](https://souravk.hashnode.dev/how-to-use-minikube-on-github-codespaces)<!-- BLOGPOSTS:END -->
+ - 🌮 [DevSecOps](https://souravk.hashnode.dev/devsecops)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
