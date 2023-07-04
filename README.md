@@ -22,11 +22,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [WebAssembly Beyond the Browser](https://souravk.hashnode.dev/wasm-in-cloud)
- - 💯 [Introduction to WebAssembly aka WASM](https://souravk.hashnode.dev/intro-wasm)
+ - 🚀 [Containers and Docker: Simplifying Application Deployment](https://souravk.hashnode.dev/containers-and-docker-simplifying-application-deployment)
+ - 💯 [WebAssembly Beyond the Browser](https://souravk.hashnode.dev/wasm-in-cloud)
+ - 🚀 [Introduction to WebAssembly aka WASM](https://souravk.hashnode.dev/intro-wasm)
  - 🚀 [My First Meetup](https://souravk.hashnode.dev/my-first-meetup)
- - 🚀 [What are WASM, WASI, WASMRuntime and WASM Module?](https://souravk.hashnode.dev/what-are-wasm-wasi-wasmruntime-and-wasm-module)
- - 🌮 [Safeguarding Your Digital World: A Comprehensive Approach to Cybersecurity](https://souravk.hashnode.dev/safeguarding-your-digital-world-a-comprehensive-approach-to-cybersecurity)<!-- BLOGPOSTS:END -->
+ - 🌮 [What are WASM, WASI, WASMRuntime and WASM Module?](https://souravk.hashnode.dev/what-are-wasm-wasi-wasmruntime-and-wasm-module)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
