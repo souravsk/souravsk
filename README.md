@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)
- - 💯 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)
+ - 🚀 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
+ - 💯 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)
+ - 🚀 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)
  - 🚀 [Containers and Docker: Simplifying Application Deployment](https://souravk.hashnode.dev/containers-and-docker-simplifying-application-deployment)
- - 🚀 [WebAssembly Beyond the Browser](https://souravk.hashnode.dev/wasm-in-cloud)
- - 🌮 [Introduction to WebAssembly aka WASM](https://souravk.hashnode.dev/intro-wasm)<!-- BLOGPOSTS:END -->
+ - 🌮 [WebAssembly Beyond the Browser](https://souravk.hashnode.dev/wasm-in-cloud)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
