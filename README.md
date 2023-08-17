@@ -26,7 +26,7 @@
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🚀 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
- - 💯 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/mastering-the-essentials-a-beginners-guide-to-git-basic-commands)
+ - 💯 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/git-commands)
  - 🚀 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
  - 🚀 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)
  - 🌮 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)<!-- BLOGPOSTS:END -->
