@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/mastering-the-essentials-a-beginners-guide-to-git-basic-commands)
- - 💯 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
+ - 🚀 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
+ - 💯 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/mastering-the-essentials-a-beginners-guide-to-git-basic-commands)
+ - 🚀 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
  - 🚀 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)
- - 🚀 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)
- - 🌮 [Containers and Docker: Simplifying Application Deployment](https://souravk.hashnode.dev/containers-and-docker-simplifying-application-deployment)<!-- BLOGPOSTS:END -->
+ - 🌮 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
