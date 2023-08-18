@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Exploring the Heart of Computing: A Deep Dive into Operating System Architecture and Features](https://souravk.hashnode.dev/os)
- - 💯 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
+ - 🚀 [Linux for DevOps: What You Need to Know](https://souravk.hashnode.dev/linux-for-devops)
+ - 💯 [Exploring the Heart of Computing: A Deep Dive into Operating System Architecture and Features](https://souravk.hashnode.dev/os)
+ - 🚀 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
  - 🚀 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/git-commands)
- - 🚀 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
- - 🌮 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)<!-- BLOGPOSTS:END -->
+ - 🌮 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
