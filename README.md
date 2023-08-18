@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
- - 💯 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/git-commands)
+ - 🚀 [Exploring the Heart of Computing: A Deep Dive into Operating System Architecture and Features](https://souravk.hashnode.dev/os)
+ - 💯 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
+ - 🚀 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/git-commands)
  - 🚀 [How to setup Git and Github for you projects](https://souravk.hashnode.dev/setup-gitgithub)
- - 🚀 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)
- - 🌮 [Containerizing a go API with docker](https://souravk.hashnode.dev/containerizing-your-app)<!-- BLOGPOSTS:END -->
+ - 🌮 [How Git and GitHub Have Transformed the Way We Build and Collaborate](https://souravk.hashnode.dev/what-is-gitgithub)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
