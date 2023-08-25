@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [How to Use Vim](https://souravk.hashnode.dev/how-to-use-vim)
- - 💯 [Linux for DevOps: What You Need to Know](https://souravk.hashnode.dev/linux-for-devops)
+ - 🚀 [what are SSH and SCP?](https://souravk.hashnode.dev/ssh-scp)
+ - 💯 [How to Use Vim](https://souravk.hashnode.dev/how-to-use-vim)
+ - 🚀 [Linux for DevOps: What You Need to Know](https://souravk.hashnode.dev/linux-for-devops)
  - 🚀 [Exploring the Heart of Computing: A Deep Dive into Operating System Architecture and Features](https://souravk.hashnode.dev/os)
- - 🚀 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)
- - 🌮 [Mastering the Essentials: A Beginner&#39;s Guide to Git Basic Commands](https://souravk.hashnode.dev/git-commands)<!-- BLOGPOSTS:END -->
+ - 🌮 [Unlocking Creativity and Collaboration: The Power of Git Branches](https://souravk.hashnode.dev/git-branch)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
