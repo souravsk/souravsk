@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)
- - 💯 [Create User In Ubuntu](https://souravk.hashnode.dev/create-user-in-ubuntu)
+ - 🚀 [Mastering File Permissions: Exploring chmod, chown, and ACL Commands](https://souravk.hashnode.dev/chmod-chown-acl)
+ - 💯 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)
+ - 🚀 [Create User In Ubuntu](https://souravk.hashnode.dev/create-user-in-ubuntu)
  - 🚀 [what are SSH and SCP?](https://souravk.hashnode.dev/ssh-scp)
- - 🚀 [How to Use Vim](https://souravk.hashnode.dev/how-to-use-vim)
- - 🌮 [Linux for DevOps: What You Need to Know](https://souravk.hashnode.dev/linux-for-devops)<!-- BLOGPOSTS:END -->
+ - 🌮 [How to Use Vim](https://souravk.hashnode.dev/how-to-use-vim)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
