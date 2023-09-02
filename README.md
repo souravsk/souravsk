@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Mastering File Permissions: Exploring chmod, chown, and ACL Commands](https://souravk.hashnode.dev/chmod-chown-acl)
- - 💯 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)
+ - 🚀 [What is wget and curl command?](https://souravk.hashnode.dev/wget-curl)
+ - 💯 [Mastering File Permissions: Exploring chmod, chown, and ACL Commands](https://souravk.hashnode.dev/chmod-chown-acl)
+ - 🚀 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)
  - 🚀 [Create User In Ubuntu](https://souravk.hashnode.dev/create-user-in-ubuntu)
- - 🚀 [what are SSH and SCP?](https://souravk.hashnode.dev/ssh-scp)
- - 🌮 [How to Use Vim](https://souravk.hashnode.dev/how-to-use-vim)<!-- BLOGPOSTS:END -->
+ - 🌮 [what are SSH and SCP?](https://souravk.hashnode.dev/ssh-scp)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
