@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Kubernetes](https://souravk.hashnode.dev/kubernetes)
- - 💯 [What is wget and curl command?](https://souravk.hashnode.dev/wget-curl)
+ - 🚀 [Minikube for Kubernetes](https://souravk.hashnode.dev/minikube-for-kubernetes)
+ - 💯 [Kubernetes](https://souravk.hashnode.dev/kubernetes)
+ - 🚀 [What is wget and curl command?](https://souravk.hashnode.dev/wget-curl)
  - 🚀 [Mastering File Permissions: Exploring chmod, chown, and ACL Commands](https://souravk.hashnode.dev/chmod-chown-acl)
- - 🚀 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)
- - 🌮 [Create User In Ubuntu](https://souravk.hashnode.dev/create-user-in-ubuntu)<!-- BLOGPOSTS:END -->
+ - 🌮 [Journalctl and system logging](https://souravk.hashnode.dev/journalctl-and-system-logging)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
