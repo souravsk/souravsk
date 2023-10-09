@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Kubernetes Secrets](https://souravk.hashnode.dev/secret)
- - 💯 [Kubernetes Services and its type](https://souravk.hashnode.dev/kubernetes-services-and-its-type)
+ - 🚀 [Azure Kubernetes Service &lpar;AKS&rpar;](https://souravk.hashnode.dev/aks)
+ - 💯 [Kubernetes Secrets](https://souravk.hashnode.dev/secret)
+ - 🚀 [Kubernetes Services and its type](https://souravk.hashnode.dev/kubernetes-services-and-its-type)
  - 🚀 [What is a kubeconfig file?](https://souravk.hashnode.dev/kubeconfig)
- - 🚀 [Organizing Your Kubernetes Cluster with Namespaces](https://souravk.hashnode.dev/k8s-ns)
- - 🌮 [How Deployment Works in Kubernetes](https://souravk.hashnode.dev/deployment)<!-- BLOGPOSTS:END -->
+ - 🌮 [Organizing Your Kubernetes Cluster with Namespaces](https://souravk.hashnode.dev/k8s-ns)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
