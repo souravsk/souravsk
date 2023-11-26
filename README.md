@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Terraform: Infrastructure as Code](https://souravk.hashnode.dev/terraform)
- - 💯 [What is IaC?](https://souravk.hashnode.dev/iac)
+ - 🚀 [Streamlining Scalability: A Guide to Installing Redis on Kubernetes with Helm Charts](https://souravk.hashnode.dev/redis)
+ - 💯 [Terraform: Infrastructure as Code](https://souravk.hashnode.dev/terraform)
+ - 🚀 [What is IaC?](https://souravk.hashnode.dev/iac)
  - 🚀 [Azure Kubernetes Service &lpar;AKS&rpar;](https://souravk.hashnode.dev/aks)
- - 🚀 [Kubernetes Secrets](https://souravk.hashnode.dev/secret)
- - 🌮 [Kubernetes Services and its type](https://souravk.hashnode.dev/kubernetes-services-and-its-type)<!-- BLOGPOSTS:END -->
+ - 🌮 [Kubernetes Secrets](https://souravk.hashnode.dev/secret)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
