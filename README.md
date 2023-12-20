@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Streamlining Scalability: A Guide to Installing Redis on Kubernetes with Helm Charts](https://souravk.hashnode.dev/redis)
- - 💯 [Terraform: Infrastructure as Code](https://souravk.hashnode.dev/terraform)
+ - 🚀 [How to integrate Sonarqube to Jenkins](https://souravk.hashnode.dev/jenkins-sonarqube)
+ - 💯 [Streamlining Scalability: A Guide to Installing Redis on Kubernetes with Helm Charts](https://souravk.hashnode.dev/redis)
+ - 🚀 [Terraform: Infrastructure as Code](https://souravk.hashnode.dev/terraform)
  - 🚀 [What is IaC?](https://souravk.hashnode.dev/iac)
- - 🚀 [Azure Kubernetes Service &lpar;AKS&rpar;](https://souravk.hashnode.dev/aks)
- - 🌮 [Kubernetes Secrets](https://souravk.hashnode.dev/secret)<!-- BLOGPOSTS:END -->
+ - 🌮 [Azure Kubernetes Service &lpar;AKS&rpar;](https://souravk.hashnode.dev/aks)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
