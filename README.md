@@ -25,11 +25,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Create Your Own AI ChatBot using Llama3 by meta](https://souravk.cloud/llama3)
- - 💯 [Use Stable Diffusion With Docker](https://souravk.cloud/sddocker)
- - 🚀 [How to integrate Sonarqube to Jenkins](https://souravk.cloud/jenkins-sonarqube)
- - 🚀 [Streamlining Scalability: A Guide to Installing Redis on Kubernetes with Helm Charts](https://souravk.cloud/redis)
- - 🌮 [Terraform: Infrastructure as Code](https://souravk.cloud/terraform)<!-- BLOGPOSTS:END -->
+ - 🚀 [Create Your Own AI ChatBot using Llama3 by meta](https://blog.souravk.cloud/llama3)
+ - 💯 [Use Stable Diffusion With Docker](https://blog.souravk.cloud/sddocker)
+ - 🚀 [How to integrate Sonarqube to Jenkins](https://blog.souravk.cloud/jenkins-sonarqube)
+ - 🚀 [Streamlining Scalability: A Guide to Installing Redis on Kubernetes with Helm Charts](https://blog.souravk.cloud/redis)
+ - 🌮 [Terraform: Infrastructure as Code](https://blog.souravk.cloud/terraform)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
